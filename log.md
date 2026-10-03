@@ -75,3 +75,37 @@ URL.revokeObjectURL(url)
 `something = "blah blah blah"`
 
 `print (something)`
+
+-------
+
+[markdown cheatshet](https://www.markdownguide.org/cheat-sheet/)
+
+A file is a discrete container for data. In Digital Humanities, we often distinguish between:
+
+    -Plain Text (.txt, .csv): Files containing only characters, readable by any computer. These are the "gold standard" for long-term preservation.
+    -Structured Data (.json, .xml): Files that use tags or keys to organize data (common in TEI encoding).
+    -Binary Files (.docx, .pdf, .jpg): Files that require specific software to interpret their internal structure.
+    
+
+Common DH File Extensions
+
+| Extension	Type	| DH Use Case |
+|-----------|------------|
+| .txt	| Plain Text	| Cleaned corpora for text analysis. |
+| .csv	| Comma Separated Values | Datasets for mapping or network analysis. |
+| .xml / .tei	| Extensible Markup Language	| Scholarly digital editions.|
+| .json	| JavaScript Object Notation	| Data harvested from web APIs or social media.|
+
+
+File Path: The specific address of a file.
+
+    -Absolute Path: The full address from the "root" (e.g., C:\Users\Humanist\Project\data.txt or /).
+    -Relative Path: The address relative to where you are currently "standing."
+        -. (dot) represents the current folder.
+        -.. (double dot) represents the parent folder (moving up one level).
+
+this started off so strong and suddenly jumped way over my head.
+
+<img width="558" height="69" alt="Screenshot 2026-10-03 at 1 38 59 PM" src="https://github.com/user-attachments/assets/207547df-a2d1-4aca-a668-e2df2666de40" />
+
+how was i supposed to know to use this? its nowhere in any of the instructions. am i missing something? 
