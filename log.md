@@ -114,4 +114,10 @@ how was i supposed to know to use this? its nowhere in any of the instructions. 
 
 i don't think im cut out for this. 
 
+i dont know how to create a directory. i don't know where to find that out. 
+i used the hints. 
+
+i was hoping there would be satisfaction in finally figuring something out. there is not. i just feel like i wish i was Amish and didn't know what a laptop was 
+
+i keep getting confused about what is instructions and what is actually code. i dont know how to make an indent.
 
