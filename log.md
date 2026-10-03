@@ -121,3 +121,7 @@ i was hoping there would be satisfaction in finally figuring something out. ther
 
 i keep getting confused about what is instructions and what is actually code. i dont know how to make an indent.
 
+<img width="816" height="289" alt="Screenshot 2026-10-03 at 2 22 53 PM" src="https://github.com/user-attachments/assets/40b4a8e1-b375-4620-9af6-e48906f6a17d" />
+<img width="738" height="130" alt="Screenshot 2026-10-03 at 2 23 09 PM" src="https://github.com/user-attachments/assets/8f626881-cb9e-46cf-9789-d807b76426ed" />
+
+it has been an hour and a half. i feel like an idiot. i am so overwhelmed by the amount of information.
