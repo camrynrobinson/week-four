@@ -109,3 +109,9 @@ this started off so strong and suddenly jumped way over my head.
 <img width="558" height="69" alt="Screenshot 2026-10-03 at 1 38 59 PM" src="https://github.com/user-attachments/assets/207547df-a2d1-4aca-a668-e2df2666de40" />
 
 how was i supposed to know to use this? its nowhere in any of the instructions. am i missing something? 
+
+<img width="971" height="661" alt="Screenshot 2026-10-03 at 1 48 59 PM" src="https://github.com/user-attachments/assets/b4ba53d7-44a1-469b-9b3a-8fd833f1a75b" /> 
+
+i don't think im cut out for this. 
+
+
