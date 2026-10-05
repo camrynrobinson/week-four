@@ -10,3 +10,8 @@
 - maps are always distorted. you have to choose how it will be distorted when you make a map. what is the intention of the map?
 - google maps: Mercator projection: distorts landmass size/shape in favour of accurate distances and cardinal directions. google maps is used for travel, so a projection is picked to best accommodate this use.
 - the platform and device used to create a map influence the final result: metadata, spatial positioning, etc. 
+
+- a traditional map shows the results of an event, whereas a digital map with many layers and mobile components can show the process of an event as it occurs
+- spatial analysis: use geospatial data to study entities using geographic and topological properties
+- identify relationships between entities, or combine entities to create new information
+- 
