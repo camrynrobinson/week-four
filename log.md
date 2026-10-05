@@ -82,10 +82,9 @@ URL.revokeObjectURL(url)
 [markdown cheatshet](https://www.markdownguide.org/cheat-sheet/)
 
 A file is a discrete container for data. In Digital Humanities, we often distinguish between:
-
-    -Plain Text (.txt, .csv): Files containing only characters, readable by any computer. These are the "gold standard" for long-term preservation.
-    -Structured Data (.json, .xml): Files that use tags or keys to organize data (common in TEI encoding).
-    -Binary Files (.docx, .pdf, .jpg): Files that require specific software to interpret their internal structure.
+- Plain Text (.txt, .csv): Files containing only characters, readable by any computer. These are the "gold standard" for long-term preservation.
+- Structured Data (.json, .xml): Files that use tags or keys to organize data (common in TEI encoding).
+- Binary Files (.docx, .pdf, .jpg): Files that require specific software to interpret their internal structure.
     
 
 Common DH File Extensions
