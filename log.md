@@ -128,10 +128,22 @@ it has been an hour and a half. i feel like an idiot. i am so overwhelmed by the
 
 -----------------------------------------------
 
-GIS layer examples
+# GIS layer examples
+
 - points: artefacts, graves, samples, postholes
 - lines: walls, paths, roads, rivers
 - polygons: structures, excavation units, sites
 - rasters: historical maps, aerial imagery, elevation
 - attributes: date, type, depth, condition, interpretation
-- 
+
+# GIS workflow
+
+1. organize existing data (vector, imagery, historical maps, etc.)
+2. collect site data (points, lines, polygons) and attribute information
+3. ensure quality control and accuracy of information
+4. conduct spatial analysis
+5. interpret spatial patterns in archaeological context
+6. communicate results through maps and documentation
+
+   
+
