@@ -125,3 +125,13 @@ i keep getting confused about what is instructions and what is actually code. i 
 <img width="738" height="130" alt="Screenshot 2026-10-03 at 2 23 09 PM" src="https://github.com/user-attachments/assets/8f626881-cb9e-46cf-9789-d807b76426ed" />
 
 it has been an hour and a half. i feel like an idiot. i am so overwhelmed by the amount of information.
+
+-----------------------------------------------
+
+GIS layer examples
+- points: artefacts, graves, samples, postholes
+- lines: walls, paths, roads, rivers
+- polygons: structures, excavation units, sites
+- rasters: historical maps, aerial imagery, elevation
+- attributes: date, type, depth, condition, interpretation
+- 
