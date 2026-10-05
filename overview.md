@@ -5,4 +5,5 @@
 - spatial questions: distribution, proximity, movement, visibility, change
 - further on visibility: what could be seen from a site might depend on time of year/season
 
-  
+- the more info collected initially, the more you have to work with later
+- 
