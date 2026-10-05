@@ -155,4 +155,8 @@ it has been an hour and a half. i feel like an idiot. i am so overwhelmed by the
 -----------------
 
 # QGIS
+ - SHP files need all the accompanying other files to actually work and they all have to have the same name
 
+1. clip: isolate all entities within a given polygon (how many homes are within this 5km radius; a circle?)
+2. buffer: visualize given area around specified entity (5km radius around hospital)
+3. least-cost path analysis (
