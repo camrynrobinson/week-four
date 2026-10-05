@@ -1,3 +1,4 @@
+10.03.16
 DHPrimer tutorial lab
 
 # My Learning Profile & Pathway
@@ -127,6 +128,7 @@ i keep getting confused about what is instructions and what is actually code. i 
 it has been an hour and a half. i feel like an idiot. i am so overwhelmed by the amount of information.
 
 -----------------------------------------------
+10.05.26
 
 # GIS layer examples
 
@@ -145,5 +147,12 @@ it has been an hour and a half. i feel like an idiot. i am so overwhelmed by the
 5. interpret spatial patterns in archaeological context
 6. communicate results through maps and documentation
 
-   
+# coordinate systems 
+
+- geo coordinate systems enable spatial location of features on Earth using specified two-dimensional numbers
+- projection errors: misalignment, shifting, cross-region displacement 
+
+-----------------
+
+# QGIS
 
