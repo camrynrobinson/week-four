@@ -169,4 +169,17 @@ necessary elements:
 additional elements to consider:
 - labels and symbology
 - final product medium (print/digital)
-- colour/greyscale/black & white 
+- colour/greyscale/black & white
+
+------------
+
+# COLAB notebook
+"get some data"
+disable !wget -O 1C20LOWAR_C32070_East-Drawing_Register_1_6.pdf 
+swap -O 1C20LOWAR_C32070_East-Drawing_Register_1_6.pdf with my notes "allnotes_3000_toweek4.pdf"
+YAAAAAY IT WORKED
+
+multipage 
+input_pdf = "allnotes_3000_toweek4.pdf" 
+and change res.save_to_markdown to res.save_to_json for shits and giggles 
+
