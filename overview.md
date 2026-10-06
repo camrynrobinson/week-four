@@ -1,5 +1,4 @@
-
-- GIS in digital archaeology:
+GIS in digital archaeology:
 - archaeological evidence has a location. location is context.
 - GIS helps archaeologists situate data in space and maintain that context
 - spatial questions: distribution, proximity, movement, visibility, change
@@ -8,8 +7,7 @@
 - a pattern on a map is evidence to investigate, not inherently an explanation.
 - maps are always distorted. you have to choose how it will be distorted when you make a map. what is the intention of the map? for instance, google maps: Mercator projection: distorts landmass size/shape in favour of accurate distances and cardinal directions. google maps is used for travel, so a projection is picked to best accommodate this use.
 - the platform and device used to create a map influence the final result: metadata, spatial positioning, etc.
-- 
-spatial analysis: use geospatial data to study entities using geographic and topological properties
+- spatial analysis: use geospatial data to study entities using geographic and topological properties
 - identify relationships between entities, or combine entities to create new information
 - Hacıgüzeller (2017): mapping by hand/mapping digitally are similar and related but distinct processes.
 - Dennis (2021): "Digital archaeology is currently experiencing an increasing population of archaeologists utilizing digital tools but whose research is still grounded in analog frameworks which fail to consider the particular burdens of digital work"
