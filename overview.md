@@ -25,3 +25,7 @@ spatial analysis: use geospatial data to study entities using geographic and top
 - william cronon (1995): "the trouble with wilderness" --> there's no such thing as wilderness. it only exists through absence. 
 - McRae (1993,1996) active role of the survey in transforming land into property
 - Latour (1987): Science in Action - how to follow scientists and engineers through society (LAB! NOT! STERILE!)
+
+i feel like this 
+
+<img width="1024" height="512" alt="image" src="https://github.com/user-attachments/assets/2f1562cf-380b-444d-9ec8-acd1e52c6575" />
